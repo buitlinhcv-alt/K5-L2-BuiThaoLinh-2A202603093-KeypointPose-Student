@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603093",
+ "ten": "BuiThaoLinh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "adminh289",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000021235.jpg",
+  "000000314154.jpg",
+  "000000349521.jpg",
+  "000000390585.jpg",
+  "000000564304.jpg",
+  "000000157271.jpg",
+  "000000183176.jpg",
+  "000000467300.jpg",
+  "000000297227.jpg",
+  "000000461002.jpg",
+  "000000150192.jpg",
+  "000000542160.jpg"
+ ],
+ "faces": [
+  "face_232598.jpg",
+  "face_300399.jpg",
+  "face_425647.jpg",
+  "face_356144.jpg",
+  "face_476363.jpg",
+  "face_249336.jpg",
+  "face_301643.jpg",
+  "face_490361.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 6,
+   "job_id": 6,
+   "task_name": "persons-BuiThaoLinh"
+  },
+  "faces": {
+   "task_id": 7,
+   "job_id": 7,
+   "task_name": "faces-BuiThaoLinh"
+  }
+ }
+}
