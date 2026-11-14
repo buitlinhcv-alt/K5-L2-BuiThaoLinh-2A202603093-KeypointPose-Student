@@ -17,7 +17,7 @@
 | Label | Kiểu | Số điểm | Tên điểm đúng bảng của lab? | Đúng thứ tự? | Số cạnh |
 |---|---|---:|---|---|---:|
 | `person` | Skeleton | 17 | Có | Có | 19 |
-| `face` | Skeleton | 13 | Có | Có | ... |
+| `face` | Skeleton | 13 | Có | Có | 12 |
 
 Mẫu `person` dựng theo người quay mặt về camera (các điểm `left_*` nằm bên phải khung mẫu)? Có
 
@@ -34,9 +34,9 @@ Cách đổi cờ `occluded` / `outside` cho **một điểm** trên phiên bả
 | `crowd` | 1 | ... | ... | ... | ... |
 | `faces` | 8 | 8 | — | — | ... |
 
-- Số ảnh người đã xong ở mốc phút 105: ___ / 10
-- Thời gian thực tế (phút): CP1 ___ · CP2 ___ · CP3 ___
-- Ảnh tốn thời gian nhất là ảnh nào, vì sao? ...
+- Số ảnh người đã xong ở mốc phút 105: 10 / 10
+- Thời gian thực tế (phút): CP1 30 · CP2 30 · CP3 30
+- Ảnh tốn thời gian nhất là ảnh nào, vì sao? 000000461002.jpg ton thoi gian nhat, vi co 2 nguoi , 1 nguoi phai doi right thanh left vi ho quay ra sau; 1 nguoi nua quay truoc nua quay sau 
 
 ## 3. Bảng ca khó (CP1, CP2)
 
