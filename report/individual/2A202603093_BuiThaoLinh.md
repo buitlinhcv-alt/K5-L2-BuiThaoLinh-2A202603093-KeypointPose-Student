@@ -6,7 +6,7 @@
 - MSSV: 2A202603093
 - Email: 26ai.linhbt@vinuni.edu.vn
 - Link repository: https://github.com/buitlinhcv-alt/K5-L2-BuiThaoLinh-2A202603093-KeypointPose-Student
-- Phiên bản CVAT (Help → About): ...
+- Phiên bản CVAT (Help → About): Server version: 2.74.1 UI version: 2.74.1
 - Máy: hệ điều hành Windows · RAM 16 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
 - Giờ bắt đầu: 16h
