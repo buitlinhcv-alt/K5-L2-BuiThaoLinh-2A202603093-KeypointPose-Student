@@ -4,13 +4,13 @@
 
 - Họ tên: Bùi Thảo Linh
 - MSSV: 2A202603093
-- Email: ...
+- Email: 26ai.linhbt@vinuni.edu.vn
 - Link repository: https://github.com/buitlinhcv-alt/K5-L2-BuiThaoLinh-2A202603093-KeypointPose-Student
 - Phiên bản CVAT (Help → About): ...
-- Máy: hệ điều hành Windows · RAM 32 GB · chạy CVAT chế độ đầy đủ
+- Máy: hệ điều hành Windows · RAM 16 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
-- Giờ bắt đầu: ...
-- Giờ kết thúc: ...
+- Giờ bắt đầu: 16h
+- Giờ kết thúc: 20h
 
 ## 1. Kiểm tra label (CP0)
 
